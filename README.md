@@ -31,8 +31,8 @@ A minimalist, modern portfolio website showcasing my experience, projects, educa
 ## 🚀 Quick Start
 
 ### Viewing the Portfolio
-
-Simply open `index.html` in any modern web browser.
+Simply visit `https://karanvaghela.pages.dev/`
+Or open `index.html` in any modern web browser.
 
 ### Local Development
 
